@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "416441045540",
+    "project_id": "es-201835011",
+    "storage_bucket": "es-201835011.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416441045540:android:af845019cdf6d96610beb1",
+        "android_client_info": {
+          "package_name": "com.erensirin.es201835011"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416441045540-flok5l906315cptvg761sd918j55q1h7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc-XOFycuqkXuPWJg280P05pR7U0oplrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416441045540-flok5l906315cptvg761sd918j55q1h7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">ES_201835011</string>
+    <string name="header_name">Rent a Car</string>
+
+    <string name="information">This application is an application that allows the users to rent the vehicles rented by the personnel between the relevant dates through the contract. All rights reserved.</string>
+    <string name="addcar">ADD</string>
+
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="signin">SIGN IN</string>
+    <string name="signup">SIGN UP</string>
+    <string name="logout">LOG OUT</string>
+    <string name="haveaccount">Don\'t have an account? Register</string>
+    <string name="alreadyaccount">I already have an account. Login</string>
+    <string name="membershipcontroller">Please make sure that you have entered your information correctly and completely.</string>
+    <string name="addcarcontroller">Please fill in the required fields</string>
+    <string name="addcarsuccess">Car uploaded successfully</string>
+    <string name="addcarfailure">Error occurred while installing car</string>
+
+    <string name="rentacar">Create Rent</string>
+    <string name="rentalcarlist">Rented Vehicles</string>
+    <string name="carlist">List Vehicles</string>
+
+    <string name="alertmessage">Login done successfully.</string>
+    <string name="alertmessage2">An error occurred while logging in with your information.</string>
+    <string name="alertmessage3">Your membership has been successfully created.</string>
+    <string name="alertmessage4">An error occurred while creating your subscription.</string>
+    <string name="alertmessage5">The vehicle has been successfully leased.</string>
+    <string name="alertmessage6">An error occurred while renting the vehicle.</string>
+    <string name="alertmessage7">The lease has been successfully terminated.</string>
+    <string name="alertmessage8">An error occurred while terminating the lease.</string>
+    <string name="alertmessage9">User not found.</string>
+    <string name="alertmessage10">Exit has been done successfully.</string>
+    <string name="alertmessage11">Please login to the application in order to perform the transactions.</string>
+    <string name="alertmessage12">Photo uploaded successfully.</string>
+    <string name="alertbutton">OKEY</string>
+
+    <string name="cardtext">HIRE A VEHICLE</string>
+    <string name="cardtext2">FINISH RENTAL</string>
+
+    <string name="progresstext">Please wait while the photo is uploading</string>
+    <string name="updated">Vehicle information has been successfully updated.</string>
+    <string name="notupdatephoto">This function does not work in rented vehicles page.</string>
+    <string name="notupdatephoto2">This function does not work in editing.</string>
+
+</resources>
